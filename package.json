@@ -1,0 +1,21 @@
+{
+  "name": "yuidoc-theme-quantosobra",
+  "version": "0.0.1",
+  "description": "YUIDoc theme for QuantoSobra",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/quantosobra/yuidoc-theme-quantosobra.git"
+  },
+  "keywords": [
+    "yuidoc-theme",
+    "code documentation",
+    "documentation generator",
+    "themes",
+    "yuidoc themes"
+  ],
+  "author": "QuantoSobra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quantosobra/yuidoc-theme-quantosobra/issues"
+  }
+}
